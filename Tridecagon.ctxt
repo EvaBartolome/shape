@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tridecagon
+comment0.text=\n\ Implement\ a\ tridecagon\ (13-sided\ polygon)\n\ \n\ @author\ Mr.\ Jaffe\n\ @version\ 2017-07-14\n
+comment1.params=sideLength\ color
+comment1.target=Tridecagon(int,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Tridecagon\n\ \n\ @param\ sideLength\ the\ length\ of\ each\ side\ of\ the\ tridecagon\n\ @param\ color\ the\ color\ of\ the\ tridecagon\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\n\ Get\ the\ area\ of\ the\ tridecagon\n\ \n\ @return\ returns\ the\ area\ of\ the\ tridecagon\n
+comment3.params=
+comment3.target=double\ getPerimeter()
+comment3.text=\n\ Get\ the\ perimeter\ of\ the\ tridecagon\n\ \n\ @return\ returns\ the\ perimeter\ of\ the\ tridecagon\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\n\ Get\ the\ color\ of\ the\ tridecagon\n\ \n\ @return\ returns\ the\ color\ of\ the\ tridecagon\n
+numComments=5
